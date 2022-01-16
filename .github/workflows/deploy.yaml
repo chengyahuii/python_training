@@ -24,7 +24,7 @@ jobs:
           yarn install
       - name: Build application
         run: |
-          yarn build --base /git/
+          yarn build --base /python_training/
           cp dist/index.html dist/404.html
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v2.3.0
