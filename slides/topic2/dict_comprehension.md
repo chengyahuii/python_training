@@ -10,7 +10,8 @@
 <br/>
 
 Example
-```py{1-3|5-7}
+```py{1-4|5-8}
+
 D = {c: c * 3 for c in 'RED'}
 print(D)
 # Prints {'R': 'RRR', 'E': 'EEE', 'D': 'DDD'}
