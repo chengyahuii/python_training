@@ -133,6 +133,10 @@ src: slides/topic2/Question.md
 ---
 
 ---
+src: slides/topic2/preparation.md
+---
+
+---
 src: slides/topic3/tuple.md
 ---
 
