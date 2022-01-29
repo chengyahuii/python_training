@@ -24,7 +24,7 @@ tech_names = {'AAPL', 'IBM', 'HPQ', 'MSFT'}
 
 <!--
 
-2. i: D[i] for i in D.keys() - removeKeys}
+2. {i: D[i] for i in D.keys() - removeKeys}
 3.1 p1 = {key: value for key, value in prices.items() if value > 200}
 3.2 p2 = {key: value for key, value in prices.items() if key in tech_names}
 
