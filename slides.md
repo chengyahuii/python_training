@@ -187,3 +187,7 @@ src: slides/topic3/slice.md
 ---
 src: slides/topic3/kebian_bukebian.md
 ---
+
+---
+src: slides/topic3/Questions.md
+---
