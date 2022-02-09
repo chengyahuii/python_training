@@ -135,3 +135,55 @@ src: slides/topic2/Question.md
 ---
 src: slides/topic2/preparation.md
 ---
+
+---
+src: slides/topic3/tuple.md
+---
+
+---
+src: slides/topic3/tuple1.md
+---
+
+---
+src: slides/topic3/tuple_property.md
+---
+
+---
+src: slides/topic3/set.md
+---
+
+---
+src: slides/topic3/set1.md
+---
+
+---
+src: slides/topic3/set_property.md
+---
+
+---
+src: slides/topic3/str.md
+---
+
+---
+src: slides/topic3/str1.md
+---
+
+---
+src: slides/topic3/str2.md
+---
+
+---
+src: slides/topic3/str2.md
+---
+
+---
+src: slides/topic3/str3.md
+---
+
+---
+src: slides/topic3/slice.md
+---
+
+---
+src: slides/topic3/kebian_bukebian.md
+---
