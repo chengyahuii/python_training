@@ -10,7 +10,7 @@ eg: str, number, tuple
 
 <br/>
 
-## 不可变类型
+## 可变类型
 ```py
 当该数据类型对应的变量发生改变时，它对应的内存地址不发生改变
 eg: list, dict, set
