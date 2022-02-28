@@ -2,4 +2,4 @@
 
 <br/>
 
-<img src="if.PNG" class="h-100"/>
+<img src="/if.PNG"/>
