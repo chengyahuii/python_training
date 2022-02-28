@@ -191,3 +191,67 @@ src: slides/topic3/kebian_bukebian.md
 ---
 src: slides/topic3/Question.md
 ---
+
+---
+src: slides/topic4/control_flow.md
+---
+
+---
+src: slides/topic4/if.md
+---
+
+---
+src: slides/topic4/if1.md
+---
+
+---
+src: slides/topic4/if2.md
+---
+
+---
+src: slides/topic4/if_else.md
+---
+
+---
+src: slides/topic4/if_else1.md
+---
+
+---
+src: slides/topic4/if_elif_else.md
+---
+
+---
+src: slides/topic4/if_elif_else1.md
+---
+
+---
+src: slides/topic4/if_summary.md
+---
+
+---
+src: slides/topic4/while.md
+---
+
+---
+src: slides/topic4/while1.md
+---
+
+---
+src: slides/topic4/for.md
+---
+
+---
+src: slides/topic4/for1.md
+---
+
+---
+src: slides/topic4/continue.md
+---
+
+---
+src: slides/topic4/break.md
+---
+
+---
+src: slides/topic4/Questions.md
+---
