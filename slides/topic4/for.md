@@ -1,3 +1,3 @@
 # for
 
-<img src="/for.PNG" class="h-100"/>
+<img src="/for.png" class="h-100"/>

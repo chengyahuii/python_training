@@ -1,3 +1,3 @@
 # while
 
-<img src="/while.PNG" class="h-100"/>
+<img src="/while.png" class="h-100"/>
