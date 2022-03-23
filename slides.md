@@ -255,3 +255,119 @@ src: slides/topic4/break.md
 ---
 src: slides/topic4/Questions.md
 ---
+
+---
+src: slides/topic5/func0.md
+---
+
+---
+src: slides/topic5/func.md
+---
+
+---
+src: slides/topic5/func1.md
+---
+
+---
+src: slides/topic5/arg.md
+---
+
+---
+src: slides/topic5/arg1.md
+---
+
+---
+src: slides/topic5/arg2.md
+---
+
+---
+src: slides/topic5/variable_length_arg.md
+---
+
+---
+src: slides/topic5/return_value.md
+---
+
+---
+src: slides/topic5/scope.md
+---
+
+---
+src: slides/topic5/scope1.md
+---
+
+---
+src: slides/topic5/modification.md
+---
+
+---
+src: slides/topic5/modification1.md
+---
+
+---
+src: slides/topic5/lambda.md
+---
+
+---
+src: slides/topic6/oop.md
+---
+
+---
+src: slides/topic6/class.md
+---
+
+---
+src: slides/topic6/class1.md
+---
+
+---
+src: slides/topic6/class2.md
+---
+
+---
+src: slides/topic6/class3.md
+---
+
+---
+src: slides/topic6/class4.md
+---
+
+---
+src: slides/topic6/class5.md
+---
+
+---
+src: slides/topic6/class6.md
+---
+
+---
+src: slides/topic6/class7.md
+---
+
+---
+src: slides/topic6/func.md
+---
+
+---
+src: slides/topic6/func1.md
+---
+
+---
+src: slides/topic6/class8.md
+---
+
+---
+src: slides/topic6/class9.md
+---
+
+---
+src: slides/topic6/class10.md
+---
+
+---
+src: slides/topic6/class11.md
+---
+
+---
+src: slides/topic6/class12.md
+---
